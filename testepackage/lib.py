@@ -1,3 +1,3 @@
 
-def try_me(name):
-    return print(f'My name is {name}')
+def try_me(a,b):
+    return a + b
